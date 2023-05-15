@@ -41,7 +41,7 @@ Once you've configured the SSH settings, tap the **"Save"** button to save your 
 
 ### Step 5: Connect and Start Tunneling
 
-After activating the profile, go to the **Home** page of the application. You will see a play button or "Connect" option. Tap on it to initiate the SSH connection and start tunneling your network traffic through the SSH server. Once connected, you should see a "Connected" or "Tunneling" status in the NapsternetV interface.
+After activating the profile, go to the **Home** page of the application. You will see a play button or "Connect" option. Tap on it to initiate the SSH connection and start tunneling your network traffic through the SSH server. Once connected, you should see a "Connected" or "Tunneling" status in the NapsternetV interface. NapsternetV might show an advertisement from time to time, just look for the close button, and if you can’t find it, use the next step to verify your connection.
 
 ### Step 6: Verify the Connection
 
